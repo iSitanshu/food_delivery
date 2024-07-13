@@ -35,3 +35,42 @@
     top: -8px;
     right: -8px;
 }
+@media (max-width: 1050px) {
+    .Navbar .logo {
+      width: 140px;
+    }
+  
+    .Navbar .navbar-menu {
+      gap: 20px;
+      font-size: 17px;
+    }
+  }
+  
+  @media (max-width: 900px) {
+    .Navbar .logo {
+      width: 120px;
+    }
+  
+    .Navbar .navbar-menu {
+      gap: 15px;
+      font-size: 16px;
+    }
+  }
+@media (max-width: 800px) {
+    .Navbar .navbar-menu {
+      display: none;
+    }
+  
+    .Navbar {
+      padding: 15px 0px;
+    }
+  
+    .Navbar .logo {
+      width: 100px;
+    }
+  
+    .navbar-search-icon .dot {
+      top: -6px;
+      right: -6px;
+    }
+  }
