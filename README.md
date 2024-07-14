@@ -43,7 +43,7 @@ To enhance functionality, we recommend using Google Chrome as some features may 
 - Node.js (>= 14.x)
 - npm (>= 6.x) or yarn (>= 1.x)
 
-### Installation
+## Installation
 
 1. Clone the repository:
    ```bash
@@ -60,6 +60,7 @@ To enhance functionality, we recommend using Google Chrome as some features may 
     # or
     yarn start
 
-### Contributing
+## Contributing
+
 If you would like to contribute, please fork the repository and submit a pull request.
 Thank you for checking out the Food Delivery App! Feel free to adjust any sections based on your specific needs!
